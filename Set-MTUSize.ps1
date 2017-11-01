@@ -13,7 +13,7 @@
     Default='Local Area Connection'
 
 .PARAMETER MTUSize
-    Set maximum MTU size.
+    Set MTU size.
     Default='1500'
 
 .PARAMETER Store
